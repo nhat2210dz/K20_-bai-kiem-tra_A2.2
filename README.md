@@ -6,7 +6,7 @@
 
 ## Demo
 
-https://github.com/nhat2210dz/K20_-bai-kiem-tra_A2.2.git
+https://github.com/NgoQuocTrieu/KiemTra_A2.2.git/
 
 ## Cách mở
 
